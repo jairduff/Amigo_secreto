@@ -1,4 +1,6 @@
 ## Título e imagen de portada
+![amigo_secreto](https://github.com/user-attachments/assets/645f6bfe-5dfe-4baa-b9e7-26a564ddedda)
+
 # Mi amigo secreto ¿Quién será?
 
 ## Insignias
