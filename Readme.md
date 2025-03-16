@@ -11,8 +11,6 @@
 * [Índice](#índice)
 * [Descripción del proyecto](#descripción-del-proyecto)
 * [Estado del proyecto](#estado-del-proyecto)
-* [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
-* [Acceso al proyecto](#acceso-al-proyecto)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 * [Conclusión](#conclusión)
 
@@ -37,14 +35,6 @@ El proyecto permite registrar a los participantes, realizar el sorteo de manera 
 ## Estado del proyecto
 
 El proyecto está actualmente en desarrollo y se encuentra en la fase de implementación de las funcionalidades principales.
-
-## Características de la aplicación y demostración
-
-Aquí puedes describir las características detalladas de la aplicación y proporcionar enlaces a demostraciones en vivo o capturas de pantalla.
-
-## Acceso al proyecto
-
-Para acceder al proyecto, puedes clonar el repositorio desde GitHub:
 
 
 ## Tecnologías utilizadas
